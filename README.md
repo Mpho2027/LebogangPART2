@@ -1,5 +1,6 @@
 # CybieeeBot — Part 2: WPF GUI Cybersecurity Awareness Chatbot
-
+youtube link.
+https://youtu.be/YKU9Y9Ev73Q?si=bL91xK5Yu42RC5Zs
 ## Overview
 CybieeeBot is a WPF-based Cybersecurity Awareness Chatbot for Windows. Part 2 expands the console application into a fully featured GUI matching the **cybieee.com** Figma design with a red-orange gradient theme.
 
